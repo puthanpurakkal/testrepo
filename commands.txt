@@ -1,4 +1,6 @@
-git init=>       to initialise git.
-git status=>     list all untracked files.
-git add -A=>     adding to staging area
-git commit -m=>  to add local repository
+git init=>to initialise git.
+git status=>list all untracked files.
+git add -A=>
+git commit -m "msg"
+git remote add name path
+git push -u name(test) branch(master)
